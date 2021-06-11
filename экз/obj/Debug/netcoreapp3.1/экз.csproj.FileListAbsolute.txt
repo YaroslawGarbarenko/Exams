@@ -1,0 +1,13 @@
+C:\Users\38095\source\repos\экз\экз\bin\Debug\netcoreapp3.1\экз.exe
+C:\Users\38095\source\repos\экз\экз\bin\Debug\netcoreapp3.1\экз.deps.json
+C:\Users\38095\source\repos\экз\экз\bin\Debug\netcoreapp3.1\экз.runtimeconfig.json
+C:\Users\38095\source\repos\экз\экз\bin\Debug\netcoreapp3.1\экз.runtimeconfig.dev.json
+C:\Users\38095\source\repos\экз\экз\bin\Debug\netcoreapp3.1\экз.dll
+C:\Users\38095\source\repos\экз\экз\bin\Debug\netcoreapp3.1\экз.pdb
+C:\Users\38095\source\repos\экз\экз\obj\Debug\netcoreapp3.1\экз.csprojAssemblyReference.cache
+C:\Users\38095\source\repos\экз\экз\obj\Debug\netcoreapp3.1\экз.AssemblyInfoInputs.cache
+C:\Users\38095\source\repos\экз\экз\obj\Debug\netcoreapp3.1\экз.AssemblyInfo.cs
+C:\Users\38095\source\repos\экз\экз\obj\Debug\netcoreapp3.1\экз.csproj.CoreCompileInputs.cache
+C:\Users\38095\source\repos\экз\экз\obj\Debug\netcoreapp3.1\экз.dll
+C:\Users\38095\source\repos\экз\экз\obj\Debug\netcoreapp3.1\экз.pdb
+C:\Users\38095\source\repos\экз\экз\obj\Debug\netcoreapp3.1\экз.genruntimeconfig.cache
